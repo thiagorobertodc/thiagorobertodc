@@ -1,6 +1,6 @@
 # Greetings, stranger <img width="30" src="https://emojis.slackmojis.com/emojis/images/1481054971/1409/partywizard.gif?1481054971" alt="Wizard emoji" />
 
-<img align="right" width="40%" src="https://giphy.com/gifs/BoxOfficetr-lotr-lord-of-the-rings-frodo-69iB0zVgoKkatcVDrA" alt="Gandalf" />
+<img align="right" width="40%" src="https://media.giphy.com/media/69iB0zVgoKkatcVDrA/giphy.gif" alt="Gandalf" />
 
 ### Welcome to my Github page!
 <p>
@@ -46,13 +46,6 @@
 <code><img height="32" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></code>
 <code><img height="32" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></code>
-
-
-
-**Utilities**
-
-<code><img height="32" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
-<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png" alt="Postman"/></code>
 
 **DevOps**
 
