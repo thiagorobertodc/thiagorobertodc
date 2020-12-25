@@ -18,7 +18,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-### Find me on The Prancing Poney. Or, if you rather:
+### Find me on The Prancing Pony. Or, if you rather:
 
 <a href="https://www.linkedin.com/in/thiagorobertodc23/">
   <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
