@@ -4,13 +4,12 @@
 
 ### Welcome to my Github page!
 <p>
-  My name is Thiago Roberto, I'm a Mobile developer from 
+  My name is Thiago Roberto, I'm a Mobile developer from <b>Brazil</b>.
   <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
-  <b>Brazil</b>.
 </p>
 <br/>
 
-### Talking about Personal Stuffs
+### About me
 
 - 🌱 I have experience on Ionic Framework and Angular;
 
