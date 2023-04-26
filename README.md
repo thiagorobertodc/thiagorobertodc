@@ -11,21 +11,9 @@
 
 ### About me
 
-- 🌱 I have experience on Ionic Framework and Angular;
-
-- 🌱 I’m currently learning Flutter; 
+- 🌱 I have experience on Ionic Framework, Angular, Flutter;
 
 - 💬 Ask me about anything, I am happy to help;
-
-### Find me on The Prancing Pony. Or, if you rather:
-
-<a href="https://www.linkedin.com/in/thiagorobertodc23/">
-  <code><img alt="My linkedin" width="28" src="https://www.flaticon.com/svg/static/icons/svg/1383/1383262.svg" /></code>
-</a>
-
-<a href="mailto:thiagorobertdc@gmail.com">
-  <code><img alt="My e-mail" width="32" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" /></code>
-</a>
 
 <br/><br/>
 
